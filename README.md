@@ -17,7 +17,7 @@ http://localhost:5000/ либо же http://localhost/api/ - доступ к bac
 
 ![Screenshot 2025-02-06 143629](https://github.com/user-attachments/assets/3de3b674-2457-4850-8c1c-fb09de18a744)
 
-http://localhost:8086 - доступ к influxfdb
+http://localhost:8086 - доступ к influxdb
 ![Screenshot 2025-02-06 143659](https://github.com/user-attachments/assets/73873fa3-9284-40cc-b2c0-45db035ad453)
 
 http://localhost:3000 - доступ к grafana
