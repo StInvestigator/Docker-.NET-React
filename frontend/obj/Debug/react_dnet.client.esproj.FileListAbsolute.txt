@@ -1,0 +1,2 @@
+D:\SHAG\visual save\React_DNET\react_dnet.client\obj\Debug\react_dnet.client.esproj.CoreCompileInputs.cache
+D:\SHAG\visual_sites\DNET React docker\frontend\obj\Debug\react_dnet.client.esproj.CoreCompileInputs.cache
